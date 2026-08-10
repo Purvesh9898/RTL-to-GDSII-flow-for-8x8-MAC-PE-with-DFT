@@ -1,4 +1,4 @@
-# pe_project — 8x8 MAC Processing Element (RTL to GDSII)
+# 8x8 MAC Processing Element (RTL to GDSII)
 
 A complete, open-source ASIC RTL-to-GDSII physical design flow for an 8-bit x 8-bit
 multiply-accumulate (MAC) Processing Element, built on the SkyWater sky130 PDK.
