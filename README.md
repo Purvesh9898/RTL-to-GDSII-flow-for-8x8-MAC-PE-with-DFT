@@ -9,7 +9,7 @@ signoff verification, including a hand-inserted DFT scan chain.
 
 ## Final layout
 
-![PE layout](docs/pe_layout.png)
+![PE layout](pe_project/drc/pe_layout.png)
 
 Routed 8x8 MAC PE with DFT scan chain. 360 cells + 619 filler cells,
 0 DRC violations, LVS clean (363/363 devices matched).
