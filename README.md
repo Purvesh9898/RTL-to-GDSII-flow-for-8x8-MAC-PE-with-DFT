@@ -4,12 +4,7 @@
 > element with DFT, taken through real synthesis, place-and-route, and
 > signoff verification on the SkyWater sky130 PDK.
 
-![Status: Timing Closed](https://img.shields.io/badge/timing-closed-brightgreen)
-![Status: DRC Clean](https://img.shields.io/badge/DRC-0_violations-brightgreen)
-![Status: LVS Matched](https://img.shields.io/badge/LVS-363%2F363_matched-brightgreen)
-![PDK: sky130](https://img.shields.io/badge/PDK-sky130-blue)
-
-![PE layout](docs/pe_layout.png)
+![PE layout](pe_project/drc/pe_layout.png)
 
 ## Table of contents
 
@@ -23,7 +18,6 @@
 - [DFT notes](#dft-notes)
 - [Issues debugged](#issues-debugged)
 - [Learning outcomes](#learning-outcomes)
-- [License](#license)
 
 ---
 
