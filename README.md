@@ -7,7 +7,7 @@
 > **baseline** and a **scan-inserted (DFT)** version.
 
 <!-- Save a KLayout screenshot as docs/scan_layout.png (File > Save Layout Image) -->
-![MAC layout (scan variant)](docs/scan_layout.png)
+![MAC layout (scan variant)](final_layout.png)
 
 ## Table of contents
 
